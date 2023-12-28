@@ -6,7 +6,7 @@ export const Verification = () => {
     id: "urn:uuid:86a109aa-a3f6-4374-b46f-92c58fcb16a1",
     type: ["VerifiableCredential"],
     credentialSubject: {
-      id: "did:example:my-data-subject-identifier-fix",
+      id: "did:example:my-data-subject-identifier",
     },
     issuer: "did:key:z6Mkv2hGUtUdKdEVdqc7esowafyriuqPvxQFnVTrRqjMknj2",
     issuanceDate: "2023-01-08T18:23:56Z",
